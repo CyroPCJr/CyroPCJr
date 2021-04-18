@@ -8,7 +8,7 @@
 
 [1]: https://www.linkedin.com/in/cyro-paulino-da-costa-junior-a0865325/
 
-#### Github Stats: :bar_chart:
+#### GitHub Stats: :bar_chart:
 <a href="https://github.com/cyropcjr/github-readme-stats">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cyropcjr&count_private=true&show_icons=true&theme=onedark" />
 </a>
