@@ -10,10 +10,10 @@
 
 #### Github Stats: :bar_chart:
 <a href="https://github.com/cyropcjr/github-readme-stats">
-  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyropcjr&theme=onedark&layout=compact" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cyropcjr&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/cyropcjr/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cyropcjr&count_private=true&show_icons=true&theme=onedark" />
+  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyropcjr&theme=onedark&layout=compact" />
 </a>
 
 <!--
