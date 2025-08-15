@@ -6,7 +6,7 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/cyro-paulino-da-costa-junior-a0865325/
+[1]: https://www.linkedin.com/in/cyropcosta
 
 #### GitHub Stats: :bar_chart:
 <a href="https://github.com/cyropcjr/github-readme-stats">
