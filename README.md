@@ -1,32 +1,42 @@
-### Hi there, I'm Cyro Software Engineer and Game Developer. 👋  
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" height="60" />
+  <h1>Olá! Eu sou Cyro 👋</h1>
+  <p>Engenheiro de Software e Desenvolvedor de Jogos. Apaixonado por criar experiências em jogos com C++ e Unity. Também apaixonado por desenvolvimento mobile Android e KMP ( ainda em andamento). Vamos construir algo incrível juntos!</p>
+</div>
 
-***You can find me on: [![LinkedIn][1.1]][1]***
-<!-- Icons -->
-[1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando em: Desenvolvimento de chat de mensagem, back-end e app Android/KMP.
+- 🌱 Aprendendo: Spring boot com Kotlin.
+- 👯 Procuro colaborar em: Desenvolvimento Android.
+- ⚡ Fun fact: Meu primeiro jogo foi inspirado em clássicos dos anos 90! Demon Crest!!
 
-<!-- Links to your social media accounts -->
+### 🛠️ Tech Stack
 
-[1]: https://www.linkedin.com/in/cyropcosta
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### GitHub Stats: :bar_chart:
-<a href="https://github.com/cyropcjr/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cyropcjr&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/cyropcjr/github-readme-stats">
-  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyropcjr&theme=onedark&layout=compact" />
-</a>
 
-<!--
-**CyroPCJr/CyroPCJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyroPCJr&show_icons=true&theme=radical&hide_border=true" alt="CyroPCJr stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyroPCJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projetos em Destaque
+- **[OmegaEngine](https://github.com/CyroPCJr/OmegaEngine)**: Meu motor de jogo custom em C++. ⭐ 1
+- **[LandmassGeneration](https://github.com/CyroPCJr/LandmassGeneration)**: Geração procedural de terrenos em C#. 🌍
+- **[Loco-Locomotive](https://github.com/liaohenry2310/Loco-Locomotive)**: Jogo co-op de ação em trem! 🚂
+
+### 🔗 Conecte-se Comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/cyropcosta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/CyroElros"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CyroPCJr&style=flat-square&color=blue" alt="Visitors" />
+</div>
